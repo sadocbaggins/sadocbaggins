@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sadocbaggins
+- 👀 I’m interested in backend development and data science.
+- 🌱 I’m currently learning ML.
